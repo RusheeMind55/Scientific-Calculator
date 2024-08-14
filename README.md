@@ -11,3 +11,4 @@
 "# E-Commerce-Application" 
 "# Last-Year-Project-Details-Website" 
 "# JPEG-Vigilant-AI-POWERD-Malware-Image-Detection-" 
+"# Scientific-Calculator" 
