@@ -12,3 +12,4 @@
 "# Last-Year-Project-Details-Website" 
 "# JPEG-Vigilant-AI-POWERD-Malware-Image-Detection-" 
 "# Scientific-Calculator" 
+"# Scientific-Calculator" 
