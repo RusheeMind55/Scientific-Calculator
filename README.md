@@ -13,4 +13,4 @@
 "# JPEG-Vigilant-AI-POWERD-Malware-Image-Detection-" 
 "# Scientific-Calculator" 
 "# Scientific-Calculator" 
-https://github.com/RusheeMind55/Scientific-Calculator/blob/598bcb831d342a356fbe62fce4655e5b60f0d69e/1.jpg
+![image alt](https://github.com/RusheeMind55/Scientific-Calculator/blob/598bcb831d342a356fbe62fce4655e5b60f0d69e/1.jpg)
